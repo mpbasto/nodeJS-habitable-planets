@@ -1,6 +1,6 @@
 # Habitable Exoplanets 🌍
 
-Verifying which exoplanets found by Kepler's telescope are habitable
+Verifying which exoplanets found by Kepler's telescope are habitable, using NodeJS and the csv-parse module.
 
 ## Getting Started
 ### Dependencies
